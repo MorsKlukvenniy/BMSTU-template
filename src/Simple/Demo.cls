@@ -14,7 +14,7 @@ ClassMethod Hello(name As %String = "") As %Status
             Write "Hello "_name
         }
 
-
+        Write !, "Я могу программировать на ObjectScript "
         Return sc
 }
 
