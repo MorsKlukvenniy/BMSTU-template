@@ -5,7 +5,7 @@
     "objectscript.conn" :{
         "server": "bmstu",
         "active": true,
-        "ns": "IRISAPP",
+        "ns": "%SYS",
         "links": {
             "CurrentPage in IRISAPP": "http://${host}:${port}/csp/${namespace}/${classname}"
         },
